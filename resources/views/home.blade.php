@@ -2,7 +2,7 @@
 
 @section('content')
 <!-- Hero Section -->
-<section id="home" class="min-h-screen flex items-center justify-center text-white relative overflow-hidden" style="background: linear-gradient(135deg, rgba(34, 197, 94, 0.8) 0%, rgba(22, 163, 74, 0.9) 100%), url('{{ asset("assets/landing.jpeg") }}') center/cover no-repeat;">
+<section id="home" class="min-h-screen flex items-center justify-center text-white relative overflow-hidden" style="background: linear-gradient(135deg, rgba(92, 193, 127, 0.8) 0%, rgba(74, 230, 131, 0.9) 100%), url('{{ asset("assets/fix_paksarwan.jpeg") }}') center/cover no-repeat;">
     <div class="absolute inset-0 bg-black/20"></div>
 
     <!-- Floating Elements -->
